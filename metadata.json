@@ -1,0 +1,6 @@
+{
+  "name": "Linktree Builder & Bio Page",
+  "description": "Personal responsive bio link tree featuring customizable buttons, profile styling, and social media platform integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
